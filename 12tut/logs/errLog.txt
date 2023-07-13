@@ -1,0 +1,6 @@
+2023/06/26	15:26:08	d9a4cdde-2ead-4dad-b8ea-9b24b99526c5	Error: Not allowed by CORS
+2023/07/03	14:02:04	3dedfc5f-bebf-4e6a-b76b-c1abdf4ec1b0	ReferenceError: next is not defined
+2023/07/03	14:06:32	43cc62f9-7263-474b-8669-1a1f38b10d51	ReferenceError: next is not defined
+2023/07/03	16:58:15	dbdb0b84-3816-48f4-a6fe-331a28cb6337	ReferenceError: whiteList is not defined
+2023/07/03	16:59:32	b6fce674-8896-4de2-ac66-6d72d6da104b	ReferenceError: whiteList is not defined
+2023/07/04	21:07:50	269b81c3-dcb8-48d6-91dd-f9b6387998a9	SyntaxError: Unexpected token 'e', "#" is not valid JSON

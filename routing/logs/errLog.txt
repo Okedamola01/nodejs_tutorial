@@ -1,0 +1,1 @@
+2023/06/26	15:26:08	d9a4cdde-2ead-4dad-b8ea-9b24b99526c5	Error: Not allowed by CORS

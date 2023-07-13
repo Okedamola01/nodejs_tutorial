@@ -1,0 +1,8 @@
+23/06/23	10:50:30	d0aa04e8-6c1f-4781-8122-f3b0f3a084c9	Log event emitted!
+23/06/23	10:51:29	8a6bee10-fde0-4764-9b03-5d5c2422feb1	Log event emitted!
+23/06/23	10:53:30	5de08d73-5203-4f7a-927f-9f90c3bba684	Log event emitted!
+23/06/23	10:55:20	a0b2f7be-7262-4983-aae0-6e556069994f	Log event emitted!
+23/06/23	14:29:38	04f11c55-9718-4743-905d-36c522694764	Log event emitted!
+23/06/23	14:29:57	bd26834d-973f-474f-a9be-2a140206ec52	Log event emitted!
+23/06/23	16:29:25	5dd928bc-8619-49be-a469-7abb2c540320	Log event emitted!
+23/06/25	05:18:18	34bfb54c-e2be-45fa-875d-08bf552a0376	Log event emitted!
